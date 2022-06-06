@@ -4,6 +4,7 @@
 
 # install
 ---------------------
+
 pkg install python
 
 pkg install git
@@ -13,6 +14,7 @@ git clone https://github.com/SONI-ESFELURM/Passwordistor.git
 cd Passwordistor
 
 python Passwordistor.py
+
 ---------------------
 If you run the script, enter the details correctly and completely 
 
